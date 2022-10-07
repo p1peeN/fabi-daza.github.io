@@ -19,7 +19,6 @@ ul li a:hover{
     flex-direction: column;
     align-items: center;
     justify-content: center;
-
 }
 #hero h1{
     color: #ffffff;
@@ -35,5 +34,4 @@ ul li a:hover{
  .card img:hover{
     transform: scale(1.05);
     transition: 0.5s;
-
  }
